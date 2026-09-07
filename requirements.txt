@@ -1,4 +1,0 @@
-python-telegram-bot>=20.0
-numpy
-aiohttp
-nest_asyncio
