@@ -1,7 +1,0 @@
-streamlit
-python-telegram-bot
-google-genai
-aiohttp
-nest_asyncio
-numpy
-beautifulsoup4
