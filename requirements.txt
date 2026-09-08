@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+Flask
+google-generativeai
+groq
+gunicorn
